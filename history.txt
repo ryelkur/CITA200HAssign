@@ -1,0 +1,252 @@
+    1  exit
+    2  ls
+    3  finger
+    4  ls -l
+    5  mail
+    6  finger
+    7  w
+    8  ls -l
+    9  ls
+   10  cd
+   11  ls
+   12  exit
+   13  /cita/local/bin/passwd
+   14  exit
+   15  ssh homard.cita.utoronto.ca
+   16  exit
+   17  /cita/local/bin/passwd
+   18  exit
+   19  pwd
+   20  cd murray
+   21  EXIT
+   22  exit
+   23  cd murrary
+   24  cd ..
+   25  cd murray
+   26  pwd
+   27  exit
+   28  pwd
+   29  mkdir CTA200_2024
+   30  cd CTA200_2024/
+   31  mkdir assignment_1
+   32  cd assignment_1/
+   33  ls -l
+   34  vi readme.md
+   35  pwd
+   36  cd ass
+   37  pwd
+   38  ls -l
+   39  cd CTA200_2024/
+   40  pwd
+   41  ls -l
+   42  cd assignment_1/
+   43  ls -l
+   44  vi readmemd
+   45  cd CTA200_2024/
+   46  cd assignment_1/
+   47  echo # CTA200 2024 >> readme.md
+   48  ls -l
+   49  ls -l 
+   50  echo # CTA200 2024 
+   51  echo "# CTA200 2024" 
+   52  echo "# CTA200 2024" >> readme.md
+   53  ls -l 
+   54  cat readme.md 
+   55  ls -l
+   56  cd ..
+   57  pwd
+   58  cd /home/murray
+   59  ls -lk
+   60  a
+   61  ::
+   62  pwd
+   63  cd ..
+   64  cd murray
+   65  pwd
+   66  find Hello*
+   67  find Hello* -l
+   68  find --help
+   69  cd ..
+   70  cd murray
+   71  ls -l
+   72  cd ..
+   73  cd murray
+   74  pwd
+   75  ls -l
+   76  cd ..
+   77  cd murray
+   78  find Hel*
+   79  pwd
+   80  find Hel*
+   81  find He*
+   82  ssh student2@calamari.cita.utoronto.ca
+   83  cd ..
+   84  cd murray
+   85  ls -l
+   86  pwd
+   87  cd ..
+   88  cd murray
+   89  find -name 'Hel*' 
+   90  find -name 'Hello*' 2>/dev/null
+   91  cp ./tmp/Hello_word.py $Home
+   92  cp ./tmp/Hello_word.py $Home/
+   93  pwd
+   94  cp ./tmp/Hello_world.py $Home
+   95  cp ./tmp/Hello_world.py $Home/
+   96  cp ./tmp/Hello_world.py $HOME/
+   97  cp ./Papers/tmp/Hello_world.c $HOME/
+   98  cd $HOME
+   99  pwd
+  100  echo $PS1
+  101  set $PS1='\h\W'
+  102  echo $PS1
+  103  set $PS1="\h\W"
+  104  echo $PS1
+  105  #PS1="\h\W"
+  106  echo $PS1
+  107  export PS1="\h\W"
+  108  pwd
+  109  export PS1="\h\W $"
+  110  pwd
+  111  cd CTA200_2024/
+  112  cd ..
+  113  export PS1="\h:\W $"
+  114  pwd
+  115  cd CTA200_2024/
+  116  cd assignment_1/
+  117  ls -l
+  118  cp %HOME/* .
+  119  cp $HOME/* .
+  120  ls -l
+  121  rename
+  122  rename Hello_world.c Hello_world_yelkur.c
+  123  rename ./Hello_world.c ./Hello_world_yelkur.c
+  124  rename ./Hello_world.c Hello_world_yelkur.c
+  125  rename -v ./Hello_world.c Hello_world_yelkur.c
+  126  mv ./Hello_world.c ./Hello_world_yelkur.c
+  127  ls -l
+  128  mv ./Hello_world.py ./Hello_world_yelkur.py
+  129  ls -l
+  130  gcc Hello_world_yelkur.c -o Hello_world_yelkur.x
+  131  Hello_world_yelkur
+  132  ./Hello_world_yelkur.x 
+  133  ./Hello_world_yelkur.py
+  134  ls -l
+  135  chmod Hello_world_yelkur.py 755
+  136  chmod --help
+  137  chmd -c Hello_world_yelkur.py 555
+  138  chmod -c Hello_world_yelkur.py 555
+  139  python
+  140  pwd
+  141  ls -l
+  142  chmod +x Hello_world_yelkur.py
+  143  ls -l
+  144  Hello_world.py
+  145  Hello_world_yelkur.py
+  146  python Hello_world_yelkur.py
+  147  vi Hello_world_yelkur.c
+  148  ssh student2@calamari.cita.utoronto.ca
+  149  pwd
+  150  cd CTA200_2024/
+  151  cd assignment_1/
+  152  vi Hello_world_yelkur.c
+  153  vi Hello_world_yelkur.c:q!
+  154  pwd
+  155  pwd
+  156  mkdir gauss2d
+  157  pwd
+  158  cd gauss2d/
+  159  cp -av /home/cta200/Research/gauss2d .
+  160  pwd
+  161  ls -l
+  162  pwd
+  163  ls -la
+  164  cd ..
+  165  pwd
+  166  ls -la
+  167  cd gauss2d
+  168  ls -la
+  169  ls -lr gauss2d
+  170  cd gauss2d/
+  171  pwd
+  172  ls -la
+  173  vi gauss2d.cc
+  174  vi gauss2d.cc 
+  175  cat makwfilw
+  176  pwd
+  177  ls -l
+  178  cat Makefile 
+  179  make --help
+  180  g++ gauss2d.cc -o gauss2d
+  181  ls -l
+  182  pwd
+  183  ./gauss2d > data.txt
+  184  cat data.txt 
+  185  module load python/2.7.12
+  186  pwd
+  187  ssh
+  188  ssh student2@homard.cita.utoronto.ca
+  189  ssh student2@calamari.utoronto.ca
+  190  ssh student2@calamari.cita.utoronto.ca
+  191  cd ..
+  192  cd murray
+  193  ls -l
+  194  cd ..
+  195  pwd
+  196  cd murray
+  197  pwd
+  198  lex
+  199  yacc
+  200  pwd
+  201  cd ..
+  202  cd $HOME
+  203  pwd
+  204  ls -l
+  205  module
+  206   ssh student@calamari.cita.utoronto.ca
+  207   ssh student2@calamari.cita.utoronto.ca
+  208  pwd
+  209  module available
+  210  module load python
+  211  python
+  212  pwd
+  213  git clone https://github.com/ryelkur/CITA200HAssign
+  214  pwd
+  215  cd CITA200HAssign/
+  216  ls -l
+  217  cd ..
+  218  ls -l
+  219  cd CITA200HAssign/
+  220  ls -l
+  221  mkdir Assmn1
+  222  cd Assmn1/
+  223  cp $HOME/Hello* .
+  224  ls -l
+  225  pwd
+  226  cd ..
+  227  pwd
+  228  cd ..
+  229  pwd
+  230  ls -l
+  231  cd privatemodules/
+  232  ls -l
+  233  cd ..
+  234  rm CITA200HAssign/ -rf
+  235  ls -l
+  236  cd CTA200_2024/
+  237  ls -l
+  238  cd assignment_1/
+  239  ls -l
+  240  git clone https://github.com/ryelkur/CITA200HAssign
+  241  ls -l
+  242  vi Hello_world_yelkur.c
+  243  gcc Hello_world_yelkur.c
+  244  gcc Hello_world_yelkur.c -o Hello_world_yelkur.x
+  245  ls -l
+  246  vi Hello_world_yelkur.py
+  247  ./Hello_world_yelkur.x >> output_c.txt
+  248  python Hello_world_yelkur.py >> output_py.txt 
+  249  module add python
+  250  python Hello_world_yelkur.py >> output_py.txt 
+  251  cat out*
+  252  history >> history.txt
